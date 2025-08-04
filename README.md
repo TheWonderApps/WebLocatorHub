@@ -1,6 +1,6 @@
 # WebLocatorHub Chrome Extension
 
-<div align="center">
+<div align="left">
 A powerful browser extension to simplify locating unique elements within a DOM structure. Playwright supported locator genertor.
 
 </div>
