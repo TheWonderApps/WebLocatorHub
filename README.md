@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![WebLocatorHub Logo](icons/icon128.png)
-
 **A powerful browser extension to simplify locating unique elements within a DOM structure. Compatible with Playwright automation tool.**
 
 [![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)](manifest.json)
