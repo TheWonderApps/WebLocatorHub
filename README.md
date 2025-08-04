@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![GitHub Logo](https://github.com/logo.png "GitHub's Logo")
+
 **A powerful browser extension to simplify locating unique elements within a DOM structure. Playwright supported locator genertor.**
 
 [![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)](manifest.json)
