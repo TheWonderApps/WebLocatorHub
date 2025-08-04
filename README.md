@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A powerful browser extension to simplify locating unique elements within a DOM structure. Compatible with Playwright automation tool.**
+**A powerful browser extension to simplify locating unique elements within a DOM structure. Playwright supported locator genertor.**
 
 [![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)](manifest.json)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
