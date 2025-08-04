@@ -1,15 +1,7 @@
 # WebLocatorHub Chrome Extension
 
 <div align="center">
-
-![WebLocatorHub](https://github.com/TheWonderApps/WebLocatorHub/blob/main/icon128.png)
-
 **A powerful browser extension to simplify locating unique elements within a DOM structure. Playwright supported locator genertor.**
-
-[![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)](manifest.json)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Chrome Extension](https://img.shields.io/badge/platform-Chrome%20Extension-yellow.svg)](https://developer.chrome.com/docs/extensions/)
-[![Playwright](https://img.shields.io/badge/compatible-Playwright-purple.svg)](https://playwright.dev/)
 
 </div>
 
