@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WebLocatorHub](https://github.com/TheWonderApps/WebLocatorHub/blob/main/icon512.png)
+![WebLocatorHub](https://github.com/TheWonderApps/WebLocatorHub/blob/main/icon128.png)
 
 **A powerful browser extension to simplify locating unique elements within a DOM structure. Playwright supported locator genertor.**
 
